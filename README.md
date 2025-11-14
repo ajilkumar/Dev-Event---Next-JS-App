@@ -20,8 +20,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-## 🚨 Tutorial
-
 ## <a name="introduction">✨ Introduction</a>
 
 Event Platform built to manage and showcase events seamlessly. It features a dynamic home page displaying upcoming events, robust API routes for CRUD operations, Cloudinary-powered image uploads, detailed event pages with registration and similar event suggestions, and integrated analytics to track user engagement and optimize performance.
