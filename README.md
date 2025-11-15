@@ -72,8 +72,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/ajilkumar/dev-events---nextjs.git
-cd dev-events---nextjs
+git clone https://github.com/ajilkumar/Dev-Event---Next-JS-App.git
+cd dev-event---next-js-app
 ```
 
 **Installation**
