@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 align="center">Dev Event Platform</h3>
+  <h1 align="center">Dev Event Platform</h1>
 
   <div>
 <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white" /> 
@@ -72,8 +72,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/dev-events-nextjs16-crash-course.git
-cd dev-events-nextjs16-crash-course
+git clone https://github.com/ajilkumar/dev-events---nextjs.git
+cd dev-events---nextjs
 ```
 
 **Installation**
